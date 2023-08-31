@@ -1,0 +1,35 @@
+#headerr{
+  
+    width: 70%;
+    margin: 30px  100px ;
+
+  }
+  #cardcon{
+    margin-top: 40px;
+
+  }
+ 
+  #containerr{
+      width: 70%;
+      margin: auto;
+       display: flex; 
+       align-items: center;
+       gap: 120px;
+ 
+  }
+  #loc{
+    margin-top: 10px;
+    border: 2px solid #9A9A9A;
+    
+    
+  }
+  #bedd{
+    border: 2px solid #9A9A9A;
+  }
+  #textf{
+    margin-top: 50px;
+    display: flex; 
+    justify-content:space-around;
+     gap: 20px; 
+
+  }

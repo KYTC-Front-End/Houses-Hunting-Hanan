@@ -1,0 +1,41 @@
+
+#hearder{
+         display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+       padding-bottom: 6em;
+       width: 100%;
+        min-height: 450px;
+        background-image:url('../../Utils/images/Group\ 170.png');
+        background-position: center;
+        background-size: cover;
+        
+}
+#hero{
+  margin: 40px;
+margin-top: 10rem; 
+  font-size: 38px;
+  display: flex;
+  text-align: center;
+  color: aliceblue;
+}
+
+#housesSection{
+  padding-top: 2em;
+  display: flex;
+  flex-direction: column;
+  margin-left: 10px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#sectionTitle{
+  font-size: 3rem;
+ font-weight: bolder;
+  color:#A78777;
+  margin-bottom: 30px;
+}
+#search{
+ display: flex;
+ justify-content: center;
+ align-items: center;
+}

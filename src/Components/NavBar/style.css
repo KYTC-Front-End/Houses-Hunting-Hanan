@@ -1,0 +1,54 @@
+#rooot {
+  width: 100% !important;
+  background-color: #eee9e7;
+  justify-content: space-around;
+  align-items: center;
+}
+#toolBar {
+  width: 100%;
+  color: #29170e;
+  margin: 0 0;
+}
+#nav{
+  font-size: 10px;
+}
+#page{
+  font-size: 13px;
+}
+#logo {
+  flex-grow: 0.5;
+  color: #EB9235;
+  font-weight: bold;
+}
+#page{
+  color: #A78777;
+ padding: 30px;
+}
+#page:hover{
+   border-bottom: 2px solid #A78777;
+}
+#btn {
+  
+  color: #A78777;
+  padding: 0.60rem 1.70rem;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 10px;
+  margin:0.60rem 1.70rem;
+  cursor: pointer;
+  border: 1px solid #EB9235 ;
+  border-radius: 10px;
+}
+
+#btn1{
+  background:#EB9235;
+  border-radius: 10px;
+  color: #fff;
+  border: 2px solid transparent;
+    cursor: pointer;
+    font-size: 10px;
+    text-decoration: none;
+    padding: 0.60rem 1.70rem;
+}
+

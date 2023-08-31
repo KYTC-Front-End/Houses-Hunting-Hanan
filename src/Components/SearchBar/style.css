@@ -1,0 +1,17 @@
+
+#icon{
+   
+   background-color: #FF8243;
+    /* border: 5px solid #FF8243 ; */
+    width: 40px;
+    height: 40px;
+    border-radius: 30%;
+    color: #FFFFFF;
+  
+}
+#search
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
